@@ -8,6 +8,7 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/tatermysalad/github-stats/master/generated/overview.svg" />
 <img src="https://raw.githubusercontent.com/tatermysalad/github-stats/master/generated/languages.svg" />
 </a>
+
 - 🔭 I’m currently working on 
 - 🌱 I’m currently learning flask
 - 👯 I’m looking to collaborate on a project which might require someone who is just starting out and willing to learn
