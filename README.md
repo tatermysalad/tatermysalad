@@ -13,7 +13,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: he/him
 <!-- - ⚡ Fun fact: ... -->
 
-<a href="https://github.com/tatermysalad">
-<img src="https://raw.githubusercontent.com/tatermysalad/github-stats/master/generated/overview.svg" />
-<img src="https://raw.githubusercontent.com/tatermysalad/github-stats/master/generated/languages.svg" />
-</a>
+![](https://raw.githubusercontent.com/tatermysalad/github-stats/master/generated/overview.svg)
+![](https://raw.githubusercontent.com/tatermysalad/github-stats/master/generated/languages.svg)
