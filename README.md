@@ -4,7 +4,7 @@
 **tatermysalad/tatermysalad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on 
+- 🔭 I’m currently working on a few projects for the Coder Academy bootcamp
 - 🌱 I’m currently learning flask
 - 👯 I’m looking to collaborate on a project which might require someone who is just starting out and willing to learn
 <!-- - 🤔 I’m looking for help with python classes -->
