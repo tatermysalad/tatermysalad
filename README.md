@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="250"/>
   <h1> 
     Hi there 👋 I'm Ed.
     <br></br>
@@ -14,7 +14,7 @@
 
 ### :technologist: About Me 
 
-:person_raising_one_hand: I am currently underway upskilling to move into development.
+:raised_hand_with_fingers_splayed: I am currently underway upskilling to move into development.
 
 :telescope: I am currently learning JavaScript. 
 
@@ -22,7 +22,7 @@
 
 :mailbox: How to reach me: <a href="https://www.linkedin.com/in/edward-dougherty-998ab21b3/">LinkedIn</a>
 
-:hugging_face: Pronouns: he/him
+:sun_with_face: Pronouns: he/him
 
 ---
 
