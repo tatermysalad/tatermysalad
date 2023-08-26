@@ -10,8 +10,6 @@
   </h1>
 </div>
 
----
-
 ### :technologist: About Me 
 
 :raised_hand_with_fingers_splayed: I am currently underway upskilling to move into development.
@@ -36,6 +34,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="40" height="40"/>&nbsp;
 </div>
+
 ---
 
 ### :teacher: Learning 
@@ -47,6 +46,7 @@
 </div>
 
 ---
+
 ### :fire: My Stats
 
 
