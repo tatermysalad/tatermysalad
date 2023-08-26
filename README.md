@@ -56,4 +56,5 @@
 ![](https://raw.githubusercontent.com/tatermysalad/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![Top languages](https://raw.githubusercontent.com/tatermysalad/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tatermysalad&layout=compact&theme=neon-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-two-phi-60.vercel.app/api/top-langs/?username=tatermysalad&layout=compact&theme=neon-dark)](https://github.com/anuraghazra/github-readme-stats)
+
