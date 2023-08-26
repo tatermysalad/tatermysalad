@@ -13,7 +13,7 @@
 
 ### :technologist: About Me 
 
-:raised_hand_with_fingers_splayed: I am currently underway upskilling to move into development.
+:raised_hand_with_fingers_splayed: I am currently upskilling to move into development from software support.
 
 :telescope: I am currently learning JavaScript. 
 
