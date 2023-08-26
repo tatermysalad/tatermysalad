@@ -4,7 +4,7 @@
     Hi there 👋 I'm Ed.
     <br></br>
     <div id="badges">
-      <a href="[https://www.linkedin.com/in/ellen-my-pham/](https://www.linkedin.com/in/edward-dougherty-998ab21b3/)">
+      <a href="[My LinkedIn](https://www.linkedin.com/in/edward-dougherty-998ab21b3/)">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </div>
   </h1>
