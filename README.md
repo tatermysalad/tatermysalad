@@ -50,6 +50,7 @@
 
 ### :fire: My Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=tatermysalad&theme=dark&border_radius=4)](#)
+[![Top Langs](https://github-readme-stats-two-phi-60.vercel.app/api/top-langs/?username=tatermysalad&layout=donut&theme=dark&hide=Shell&custom_title=My%20GitHub%20Top%205)](#)
 
-[![Top Langs](https://github-readme-stats-me1xryjd3-tatermysalad.vercel.app/api/top-langs/?username=tatermysalad&layout=compact&theme=dark)](#)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=tatermysalad&mode=weekly&theme=dark&border_radius=4)](#)
