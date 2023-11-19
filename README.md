@@ -4,7 +4,7 @@
     Hi there 👋 I'm Ed.
     <br></br>
     <div id="badges">
-      <a href="https://www.linkedin.com/in/edward-dougherty-998ab21b3/">
+      <a href="https://www.linkedin.com/in/emjdougherty/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
       </a>
     </div>
@@ -19,7 +19,7 @@
 
 :seedling: I’m currently working on a few projects for the Coder Academy bootcamp
 
-:mailbox: How to reach me: <a href="https://www.linkedin.com/in/edward-dougherty-998ab21b3/">LinkedIn</a>
+:mailbox: How to reach me: <a href="https://www.linkedin.com/in/emjdougherty/">LinkedIn</a>
 
 :sun_with_face: Pronouns: he/him
 
