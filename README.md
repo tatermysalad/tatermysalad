@@ -15,9 +15,9 @@
 
 :raised_hand_with_fingers_splayed: I am currently upskilling to move into development from software support.
 
-:telescope: I am currently learning JavaScript. 
+:telescope: I am currently learning consolidating my skills
 
-:seedling: I’m currently working on a few projects for the Coder Academy bootcamp
+:seedling: I’m currently working on a few personal and work projects.
 
 :mailbox: How to reach me: <a href="https://www.linkedin.com/in/emjdougherty/">LinkedIn</a>
 
@@ -47,6 +47,5 @@ MERN + Python
 ### :fire: My Stats
 
 [![Top Langs](https://github-readme-stats-two-phi-60.vercel.app/api/top-langs/?username=tatermysalad&layout=donut&theme=dark&hide=Shell&custom_title=My%20GitHub%20Top%205)](#)
-
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=tatermysalad&mode=weekly&theme=dark&border_radius=4)](#)
