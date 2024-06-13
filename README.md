@@ -15,7 +15,7 @@
 
 :raised_hand_with_fingers_splayed: I am currently upskilling to move into development from software support.
 
-:telescope: I am currently learning consolidating my skills
+:telescope: I am currently consolidating my skills and looking into Java
 
 :seedling: I’m currently working on a few personal and work projects.
 
