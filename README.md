@@ -13,9 +13,9 @@
 
 ### :technologist: About Me 
 
-:raised_hand_with_fingers_splayed: I am currently upskilling to move into development from software support.
+:raised_hand_with_fingers_splayed: I am currently working at AvSoft Australia as a Software Developer.
 
-:telescope: I am currently consolidating my skills and looking into Java
+:telescope: I am currently working in Python and JavaScript in both front and back ends.
 
 :seedling: I’m currently working on a few personal and work projects.
 
